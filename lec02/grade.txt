@@ -1,0 +1,12 @@
+--------------------------------------------
+%%% grade of class A, year 2020
+Name ID Grade GPA Gender
+"Xiao Ming" 133001 100 4 F
+"Xiao Hong" 133023 90 3.7 M
+"Xiao Wan" 133099 85 3.2 M
+"Song Hui" 133020 80 3.5 M
+"Song Yi" 133019 100 4 M
+"Donald Trump" 133012 88 3.7 M
+"Clinton Hilary" 133014 90 3.7 F%%% retake
+"Obama BH" 133010 "" "" M%%% Fail
+------------------------------------------
