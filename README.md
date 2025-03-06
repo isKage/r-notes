@@ -4,9 +4,11 @@
 
 ## 目录
 
-[Lec01 R 语言基本介绍](./lec01_intro/note01_intro.md)
+-  [Lec01 R 语言基本介绍](./lec01_intro/note01_intro.md)
 
-[Lec02 R 语言入门 1](./lec02/note02.md)
+- [Lec02 R 语言初步 1 常见对象和数据的输入输出](./lec02常见对象和数据的输入输出/note02常见对象和数据的输入输出.md)
+
+- [Lec03 R 语言初步 2 常见操作和控制流](./lec03常见操作和控制流/note03常见操作和控制流.md)
 
 
 ## 友链
