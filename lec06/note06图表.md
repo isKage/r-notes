@@ -427,7 +427,7 @@ plot(X, Y, col = 1, pch = pch_type, cex = 2, main = "pch:*aA?1", font.lab = 2)
 
 ```R
 # 设置绘图面板为 2 行 2 列
-par(mfrow = c(2, 2))
+op <- par(mfrow = c(2, 2))
 
 # 定义数据
 X <- 1:10
@@ -444,7 +444,11 @@ plot(X, Y, main = "Red Point", col = "red")
 
 # 绘制绿色点图
 plot(X, Y, main = "Green Point", col = "green")
+
+par(op)
 ```
+
+> 用 `op` 对象存储 `par()` 函数的子图设置，再次使用 `par(op)` 即可重置默认设置。否则，之后的绘图会一直按照 最开始 `par()` 的设置放置。
 
 ### 3.4 保存图片
 
