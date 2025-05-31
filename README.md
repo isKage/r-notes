@@ -2,6 +2,8 @@
 
 本文收录了 R 语言笔记【持续更新中】，包括代码和笔记（笔记以 `Markdown` 语法书写）。可见我的知乎专栏 [Zhihu: R 语言笔记](https://zhuanlan.zhihu.com/column/c_1876311813261488128) 。
 
+基于本文的 R 语言知识，完成了一个针对医学图像处理的 PJ ，结合统计学知识与 CNN 卷积神经网络知识，项目地址 [基于 Maxpooling + Logistic 和卷积神经网络的医学图像处理与二分类问题项目](https://github.com/isKage/r-course-pj) 。
+
 ## 目录
 
 -  [Lec01 R 语言基本介绍](./lec01_intro/note01_intro.md)
